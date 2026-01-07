@@ -38,8 +38,8 @@ GND           →  GND
 
 ### Pulsanti
 ```
-TB1           →  D2 (GPIO4) + GND
-TB2           →  D1 (GPIO5) + GND
+TB1           →  D2 (GPIO4) + VIN + GND
+TB2           →  D1 (GPIO5) + VIN + GND
 ```
 
 ---
