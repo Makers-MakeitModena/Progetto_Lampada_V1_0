@@ -14,5 +14,4 @@
 - Batteria ricabile 18650
 4200 mAh, 3.7 V, ioni di Li
   
-
-- Cavi e viti secondo le necessità</p>
+- Cavi e viti secondo le necessità come da schema elettrico
