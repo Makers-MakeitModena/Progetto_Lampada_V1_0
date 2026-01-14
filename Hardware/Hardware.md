@@ -1,4 +1,4 @@
-#Lista dei componenti hardware
+# Lista dei componenti hardware
 
 - Scheda di controllo
 <br>LOLIN(WEMOS) D1 ESP-WROOM-02
