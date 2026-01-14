@@ -9,6 +9,6 @@
 
 ## Parametri di stampa
 - Materiale per scatola, coperchio, perno a T ed anello: PLA
+- Stampare la scatola appoggiando la parte superiore sul piatto di stampa
 - Materiale per l'elemento decorativo: PLA trasparente
 
-### Parametri di stampa
