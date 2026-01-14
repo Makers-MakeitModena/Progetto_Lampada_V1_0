@@ -3,6 +3,7 @@
 - Scheda di controllo
 <br>LOLIN(WEMOS) D1 ESP-WROOM-02
 <br>Code name: ESP8266_WEMOS_D1WROOM02
+<br>Attenzione: D1 ESP-WROOM-ESP32 ha la porta USB in posizione differente rispetto al modello necessario per il progetto CAD proposto nel progetto
 
 - RGB LED
 <br>Anello da 16 LED con controllore WS2812 5050
