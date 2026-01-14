@@ -8,7 +8,7 @@
 - RGB LED
 <br>Anello da 16 LED con controllore WS2812 5050
 <br>Tipo Neowise Neopixel
-<br>Diametro esterno 69 mm
+<br>Diametro esterno 68 mm, interno 54 mm
 
 - 2x TTP223 pulsante capacitivo piatto 15x11 mm
 
