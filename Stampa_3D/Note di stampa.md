@@ -12,3 +12,7 @@
 - Stampare la scatola appoggiando la parte superiore sul piatto di stampa
 - Materiale per l'elemento decorativo: PLA trasparente
 
+## Incollaggio del perno a T di fissaggio
+- l'asse maggiore del perno va incollato ortogonalmente al lato in cui sono presenti i pulsanti touch
+- una colla molto efficace è Kraftprotz Supercola XXl per PLA (cianoacrilato)
+
